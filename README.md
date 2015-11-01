@@ -1,0 +1,2 @@
+# intercept
+JavaScript method interceptor
